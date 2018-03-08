@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Mystic-Manatee/Node_Project/issues"
   },
-  "homepage": "https://github.com/Mystic-Manatee/Node_Project#readme"
+  "homepage": "https://github.com/Mystic-Manatee/Node_Project#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  }
 }
